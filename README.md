@@ -1,6 +1,6 @@
 # Customer Turnover over Monthly, Quartly, and Monthly 
 
-The data is exported from Microsoft's WideWorldImporters, while the Data ScienceTech Institute in France has recommended some of the questions below for 2024. A manager provided the key inquiries as well as the hypothetical questions, which included: 
+The data is exported from Microsoft's WideWorldImporters, while the Data ScienceTech Institute in France has recommended some of the questions below. A manager provided the key inquiries as well as the hypothetical questions, which included: 
 
 1. Compare the quantity of orders in different years.
 2. Determine the client group with the greatest financial loss due to orders not being translated into invoices. 
