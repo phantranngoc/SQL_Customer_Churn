@@ -14,3 +14,4 @@ The SQL functions are used to solve the questions described above.
 4. Window functions
 5. Procedure.
 
+The detailed information of WildWorldImporters is at https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-dw-database-catalog?view=sql-server-ver16#schemas
