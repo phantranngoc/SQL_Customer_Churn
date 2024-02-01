@@ -15,3 +15,5 @@ The SQL functions are used to solve the questions described above.
 5. Procedure.
 
 The detailed information of WildWorldImporters is at https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-dw-database-catalog?view=sql-server-ver16#schemas
+
+Link for the databases: https://dstisas-my.sharepoint.com/:u:/g/personal/ngoc_phan_edu_dsti_institute/EZef8sQVOfxJmH85TUQ_dEcBHJIoFzITUsdnRsADqRi1mA?e=KeKR6j
